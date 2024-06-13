@@ -1,4 +1,4 @@
-package com.example;
+package com.kuang;
 
 public class Main {
     public static void main(String[] args) {
